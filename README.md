@@ -1,2 +1,2 @@
-# esta es la pagina web del sitio
+# Esta es la pagina web del sitio
 sitio
