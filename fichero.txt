@@ -1,1 +1,1 @@
-creo fichero.txt mañana
+creo fichero.txt hoy
