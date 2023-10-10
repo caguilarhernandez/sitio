@@ -1,1 +1,1 @@
-fichero.txt
+creo fichero.txt hoy 
